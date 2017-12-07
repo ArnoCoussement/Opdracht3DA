@@ -12,4 +12,4 @@ services:
 script:
 - docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
 - mvn clean package docker:build
-- docker push arnocoussement/RatingService:latest
+- docker push arnocoussement/ratingservice:latest
