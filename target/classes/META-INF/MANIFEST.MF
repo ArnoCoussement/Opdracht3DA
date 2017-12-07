@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: RatingService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: arnoc
+Implementation-Vendor-Id: org.ucll
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://projects.spring.io/spring-boot/RatingServic
+ e/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
